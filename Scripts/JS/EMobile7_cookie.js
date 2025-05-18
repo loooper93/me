@@ -1,4 +1,4 @@
-const cookieName = 'EM1'
+const cookieName = 'EM'
 const cookieKey = 'EM'
 const chavy = init()
 const cookieVal = $request.headers['Cookie']
