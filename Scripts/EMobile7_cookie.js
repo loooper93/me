@@ -1,5 +1,5 @@
-const cookieName = 'EMobile'
-const cookieKey = 'EMobile'
+const cookieName = 'EM'
+const cookieKey = 'EM'
 const chavy = init()
 const cookieVal = $request.headers['Cookie']
 if (cookieVal) {
