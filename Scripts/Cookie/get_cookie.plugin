@@ -17,7 +17,7 @@
 [Script]
 
 # > EMobile7 
-http-request ^https:\/\/emm\.dameng\.com\/?.? script-path=https://raw.githubusercontent.com/loooper93/test/refs/heads/main/Scripts/EMobile7_cookie.js, timeout=60, tag=EMobile7
+http-request ^https:\/\/emm\.dameng\.com script-path=https://raw.githubusercontent.com/loooper93/test/refs/heads/main/Scripts/EMobile7_cookie.js, timeout=60, tag=EMobile7
 
 # > smzdm
 http-request ^https:\/\/user-api\.smzdm\.com\/users\/info script-path=https://raw.githubusercontent.com/loooper93/test/refs/heads/main/Scripts/smzdm_cookie.js, timeout=60, tag=smzdm
